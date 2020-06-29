@@ -1,4 +1,4 @@
-HELP.md
+myshop-admin/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
